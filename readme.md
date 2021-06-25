@@ -1,4 +1,2 @@
-This is readme for conflict
+producing merging
 merging
-This is for git fetch demonstration
-This is for 
