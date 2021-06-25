@@ -1,1 +1,1 @@
-This is for git fetch demonstration
+This is readme for conflict
